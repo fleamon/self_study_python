@@ -1,4 +1,3 @@
-#!/usr/bin/env python
 #-*- encoding: utf-8
 
 import ch5_python_2_module

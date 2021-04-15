@@ -1,4 +1,3 @@
-#!/usr/bin/env python
 #-*- encoding: utf-8
 
 a = input("입력숫자 : ")
